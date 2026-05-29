@@ -4,7 +4,7 @@ BauWatch ist eine moderne Webplattform zur Identifikation, Analyse und Überwach
 
 Die Plattform kombiniert geografische Daten aus Google Maps mit Informationen von Behörden, Städten und öffentlichen Ausschreibungsportalen, um Investoren, Bauträgern, Immobilienentwicklern und Interessenten frühzeitig über neue Bauflächen zu informieren.
 
-![BauWatch Mockup](./assets/mockup.png)
+
 
 ---
 
